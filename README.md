@@ -1,5 +1,7 @@
 # binary_trees
 
+<img src="assets/plate.gif" alt="Plate 07, binary_trees: nodes are inserted into a binary search tree, then walked in order." width="100%">
+
 A study of binary trees in C, from a single node up to self-balancing trees, with each stage built on the one before.
 
 All nodes share one type, `binary_tree_t`, aliased as `bst_t`, `avl_t` and `heap_t` depending on the tree being built. Every function is declared in `binary_trees.h`.
